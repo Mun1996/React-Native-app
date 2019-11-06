@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/songzewen/Desktop/work/React-Native-app/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/songzewen/Desktop/work/React-Native-app/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/Optional.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/Portability.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/CPortability.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/Traits.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/Utility.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/songzewen/Desktop/work/React-Native-app/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
